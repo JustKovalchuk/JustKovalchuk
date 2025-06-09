@@ -8,26 +8,32 @@
 ### 🛠️🧰Laguages and Tools
 <div>
   <img width=30 style="padding: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img width=30 style="padding: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img width=30 style="padding: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img width=30 style="padding: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <br>
   <img width=30 style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width=30 style="padding: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" />
+  <img width=30 style="padding: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" />
+  <br>
+  <img width=30 style="padding: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" />
+  <img width=30 style="padding: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg" />
+  <img width=30 style="padding: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg" />
   <br>
   <img width=30 style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img width=30 style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img width=30 style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
-
-  <img width=30 style="padding: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" />
-  <img width=30 style="padding: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" />
 </div>
+
 #### GameDev
 <div>
   <img width=30 style="padding: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
   <img width=30 style="padding: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
 </div>
+
 #### ChatBots
 <div>
-  
+  <img width=30 style="padding: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 </div>
 
 #### Web
@@ -44,4 +50,6 @@
 #### Embedded
 <div>
   <img width=30 style="padding: 20px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original-wordmark.svg" />
+  <img width=30 style="padding: 20px;" src="https://id.thethingsnetwork.org/pictures/TheThingsNetwork/thumbnail" />
+  <img width=30 style="padding: 20px;" src="https://avatars.githubusercontent.com/u/5756403?s=280&v=4" />
 </div>

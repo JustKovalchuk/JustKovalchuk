@@ -13,7 +13,7 @@
   <img width=30 style="padding: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <br>
   <img width=30 style="padding: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img width=30 style="padding: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original-wordmark.svg" />
+  <img width=30 style="padding: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" />
   <img width=30 style="padding: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/jenkins/jenkins-original.svg" />
   <br>
   <img width=30 style="padding: 10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg" />
@@ -40,16 +40,16 @@
 <div>
   <img width=30 style="padding: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width=30 style="padding: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
+  <br>
   <img width=30 style="padding: 20px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg" />
-  
+  <br>
   <img width=30 style="padding: 20px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" />
   <img width=30 style="padding: 20px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" />
 </div>
 
 #### Embedded
 <div>
-  <img width=30 style="padding: 20px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original-wordmark.svg" />
-  <img width=30 style="padding: 20px;" src="https://id.thethingsnetwork.org/pictures/TheThingsNetwork/thumbnail" />
-  <img width=30 style="padding: 20px;" src="https://avatars.githubusercontent.com/u/5756403?s=280&v=4" />
+  <img width=50 style="padding: 20px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original-wordmark.svg" />
+  <img width=50 style="padding: 20px;" src="https://id.thethingsnetwork.org/pictures/TheThingsNetwork/thumbnail" />
+  <img width=50 style="padding: 20px;" src="https://avatars.githubusercontent.com/u/5756403?s=280&v=4" />
 </div>

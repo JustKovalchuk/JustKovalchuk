@@ -49,7 +49,7 @@
 
 #### Embedded
 <div>
-  <img width=50 style="padding: 20px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original-wordmark.svg" />
-  <img width=50 style="padding: 20px;" src="https://id.thethingsnetwork.org/pictures/TheThingsNetwork/thumbnail" />
-  <img width=50 style="padding: 20px;" src="https://avatars.githubusercontent.com/u/5756403?s=280&v=4" />
+  <img width=75 style="padding: 25px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/arduino/arduino-original-wordmark.svg" />
+  <img width=75 style="padding: 25px;" src="https://id.thethingsnetwork.org/pictures/TheThingsNetwork/thumbnail" />
+  <img width=75 style="padding: 25px;" src="https://avatars.githubusercontent.com/u/5756403?s=280&v=4" />
 </div>

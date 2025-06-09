@@ -41,7 +41,7 @@
   <img width=30 style="padding: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width=30 style="padding: 20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <br>
-  <img width=30 style="padding: 20px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain-wordmark.svg" />
+  <img width=50 style="padding: 20px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3acNOBE9pk_o0nYBAb8CN9y7Qu8J0668rhg&s" />
   <br>
   <img width=30 style="padding: 20px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" />
   <img width=30 style="padding: 20px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg" />
